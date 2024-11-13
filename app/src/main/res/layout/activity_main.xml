@@ -52,6 +52,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="29dp"
         android:text="TextView"
+        android:saveEnabled="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.084"
